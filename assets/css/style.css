@@ -1,5 +1,23 @@
 body {
     text-align: center;
-
+    background-color: rgb(7, 3, 49);
+    color: white;
 }
 
+img {
+    border: rgb(166, 150, 150) solid 3px;
+    border-radius: 5px;
+}
+
+p {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.footer {
+    position: relative;
+    bottom: 0px;
+
+    background-color: rgb(10, 3, 84);
+    color: white;
+}
